@@ -1,0 +1,2 @@
+# static-page
+first page
